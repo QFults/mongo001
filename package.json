@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/QFults/mongo001#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
     "mongojs": "^3.1.0"
   }
 }
